@@ -1,6 +1,5 @@
-pandas>=1.4
-numpy
-sqlite3  # sqlite3 is part of stdlib; listed for clarity
+pandas>=1.4,<2.0
+numpy>=1.21,<2.0
 sqlalchemy
 python-dateutil
 statsmodels
